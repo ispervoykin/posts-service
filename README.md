@@ -1,4 +1,4 @@
-# social-network
+# posts-service
 This project is a simple API-based application created for educational purposes. It provides a set of API endpoints that the user (or another web application) can call (for example, to authorize, create a post, or upvote a post). Full documentation is available on the /docs page.
 
 ## Frameworks/libraries used
